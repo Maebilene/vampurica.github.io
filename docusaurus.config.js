@@ -156,8 +156,8 @@ const config = {
         <div style="border-style: dotted; border-color: #c52827;"><a href="https://www.paradoxinteractive.com/games/world-of-darkness/community/dark-pack-agreement" target="_blank" rel="noreferrer noopener" aria-label="Dark Pack Agreement">
             <img src="https://i.fivem.lgbt/xjNT39EIvE.png" alt="Dark Pack Logo" width="125" height="125" style="float: left;"/>
         </a>
-        Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission.<br>
-        All rights reserved. For more information please visit worldofdarkness.com.<br>
+        Portions of the materials on this website are the copyrights and trademarks of Paradox Interactive AB, and are used with permission.<br>
+        All rights reserved. For more information please visit <a href="https://www.paradoxinteractive.com/games/world-of-darkness/community/dark-pack-agreement" target="_blank" rel="noreferrer noopener">worldofdarkness.com</a>.<br>
         Contents of this website do not constitute official World of Darkness Material.<br>
         Other Content Copyright © ${new Date().getFullYear()} Vampurica. Built with Docusaurus.</div>`,
       },
