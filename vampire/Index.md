@@ -4,3 +4,4 @@ sidebar_label: 'Index'
 ---
 
 # Index
+.
