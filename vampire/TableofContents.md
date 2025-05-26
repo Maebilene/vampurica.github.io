@@ -20,8 +20,8 @@ sidebar_label: 'Table of Contents'
 
 ## [Rituals](./Rituals/)
 
+## [Skills](./Skills/)
+
 ## [Merits](./Merits/) & [Flaws](./Flaws/)
 
-## [Dramatic Systems](./)
-
-## [Index](./)
+## [Dramatic Systems](<./Dramatic Systems/>)
