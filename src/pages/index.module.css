@@ -24,7 +24,7 @@
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 1vw;
   }
 }
 
@@ -35,5 +35,5 @@
 }
 
 .button {
-  padding: 20px;
+  padding: 1vw;
 }
