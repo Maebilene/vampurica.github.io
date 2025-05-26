@@ -1,0 +1,62 @@
+---
+sidebar_position: 5
+sidebar_label: 'Clans and Bloodlines'
+---
+
+# Clans and Bloodlines
+
+A **Clan** in Vampire the Masquerade is used to describe the major groups of vampires who share common characteristics that are passed down through the embrace. These are typically similar abilities and weaknesses.
+
+A **Bloodline** is a subset of a **Clan** that is a smaller group of vampires who still have the majority of the common abilities and weaknesses of their parent *Clan*, but with changes significant enough to be noted. This is normally a slight tweak to abilities and/or additional weaknesses, with some historic cause.
+
+## [Banu Haqim Viziers](./Banu%20Haqim)
+    * [Banu Haqim Sorcerers](./Banu%20Haqim%20Sorcerers)
+    * [Banu Haqim Warriors](./Banu%20Haqim%20Warriors)
+## [Brujah](./Brujah)
+    * [True Brujah](./True%20Brujah)
+## [Caitiff](./Caitiff)
+    * [Dhampir](./Dhampir)
+    * [Thin-Blood](./Thin-Blood)
+## [Cappadocians](./Cappadocians)
+    * [Lamia](./Lamia)
+    * [Samedi](./Samedi)
+## [Daughters of Cacophony](./Daughters%20of%20Cacophony)
+    * [Sons of Discord](./Daughters%20of%20Cacophony)
+    * [Children of Dissonance](./Daughters%20of%20Cacophony)
+## [Followers of Set](./Setite)
+    * [Tlacique](./Tlacique)
+    * [Vipers](./Vipers)
+## [Gangrel](./Gangrel)
+    * [Ahrimanes](./Ahrimanes)
+    * [Anda](./Anda)
+    * [Coyote](./Coyote)
+    * [Noiad](./Noiad)
+## [Gargoyle](./Gargoyle)
+## [Ghouls](./Ghouls)
+## [Giovanni](./Giovanni)
+    * [Giovanni Premascine](./Premascine)
+## [Lasombra](./Lasombra)
+    * [Corsairs](./Corsairs)
+    * [Kiasyd](./Kiasyd)
+## [Lhiannan](./Lhiannan)
+## [Malkavian](./Malkavian)
+    * [Ananke](./Ananke)
+    * [Knights of the Moon](./Knights%20of%20the%20Moon)
+## [Nagaraja](./Nagaraja)
+## [Nosferatu](./Nosferatu)
+    * [Creeps](./Creeps)
+## [Ravnos](./Ravnos)
+    * [Brahman](./Brahman)
+## [Salubri Warrior](./Salubri)
+    * [Salubri Healer](./Salubri%20Healer)
+## [Toreador](./Toreador)
+    * [Ishtarri](./Ishtarri)
+    * [Volgirre](./Volgirre)
+## [Tremere](./Tremere)
+    * [Telyav](./Telyav)
+## [Tzimisce](./Tzimisce)
+    * [Bratovitch](./Bratovitch)
+    * [Carpathians](./Carpathians)
+    * [Koldun](./Koldun)
+## [Ventrue](./Ventrue)
+    * [Ventrue Crusaders](./Crusaders)

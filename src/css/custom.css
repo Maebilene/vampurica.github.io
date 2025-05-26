@@ -1,0 +1,50 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+
+  --ifm-color-primary: #b33939;
+  --ifm-color-primary-dark: #a03232;
+  --ifm-color-primary-darker: #902d2d;
+  --ifm-color-primary-darkest: #742525;
+  --ifm-color-primary-light: #c64242;
+  --ifm-color-primary-lighter: #ce4a4a;
+  --ifm-color-primary-lightest: #e25c5c;
+  --ifm-color-info-dark: #ff5c5c;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-footer-background-color: #2c2a2e;
+  --ifm-blockquote-border-color: #a33d3d;
+  --ifm-color-primary: #ff5c5c;
+  --ifm-color-primary-dark: #e05252;
+  --ifm-color-primary-darker: #cc4c4c;
+  --ifm-color-primary-darkest: #a33d3d;
+  --ifm-color-primary-light: #ff6e6e;
+  --ifm-color-primary-lighter: #ff7f7f;
+  --ifm-color-primary-lightest: #ff9999;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.alert {
+    background-color: #2c2a2e;
+}
+
+
+.float-right-img {
+    float: right;
+    textAlign: 'right';
+    margin: 0;
+}
+
+.icon-img {
+    float: left;
+    max-width: 60px;
+    margin: 0.2em 1em 0.2em 0.2em;
+}
