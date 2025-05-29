@@ -6,12 +6,12 @@ const FeatureList = [
   {
     title: 'Flaws',
     image: require('@site/static/img/flaws.png').default,
-    url: '/vampire/Skills',
+    url: '/vampire/Flaws',
   },
   {
     title: 'Skills',
     image: require('@site/static/img/skills.png').default,
-    url: '/vampire/Flaws',
+    url: '/vampire/Skills',
   },
   {
     title: 'Rituals',
