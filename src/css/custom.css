@@ -51,3 +51,7 @@
     max-width: 60px;
     margin: 0.2em 1em 0.2em 0.2em;
 }
+
+.col.col--4 {
+    --ifm-col-width: 33%;
+}

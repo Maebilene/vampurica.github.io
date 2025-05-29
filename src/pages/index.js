@@ -33,8 +33,8 @@ function HomepageHeader() {
           </Link>
           <Link
             className={styles.button}
-            to="/vampire/Skills">
-            <img src={require('@site/static/img/skills.png').default} height="135%"></img>
+            to="/vampire/Merits">
+            <img src={require('@site/static/img/merits.png').default} height="135%"></img>
           </Link>
         </div>
       </div>

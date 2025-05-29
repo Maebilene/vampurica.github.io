@@ -4,43 +4,42 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: "Vampire Camping",
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Vampires in the woods would be an interesting place. Watch out for Garou!
-      </>
-    ),
+    title: 'Flaws',
+    image: require('@site/static/img/flaws.png').default,
+    url: '/vampire/Skills',
   },
   {
-    title: 'Easy Rule Access',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Look at how we can display accurate rules easily to players looking for rulings!
-      </>
-    ),
+    title: 'Skills',
+    image: require('@site/static/img/skills.png').default,
+    url: '/vampire/Flaws',
   },
   {
-    title: 'More Free Time',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Just look at us spending more time doing other things like gaming rather than needing to reference multiple things!
-      </>
-    ),
+    title: 'Rituals',
+    image: require('@site/static/img/rituals.png').default,
+    url: '/vampire/Rituals',
+  },
+  {
+    title: 'Attributes',
+    image: require('@site/static/img/attributes.png').default,
+    url: '/vampire/Attributes',
+  },
+  {
+    title: 'Backgrounds',
+    image: require('@site/static/img/backgrounds.png').default,
+    url: '/vampire/Backgrounds',
+  },
+  {
+    title: 'Introduction',
+    image: require('@site/static/img/introduction.png').default,
+    url: '/vampire/IntroToDarkSkylines',
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({image, title, url}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+        <a href={url} ><img src={image} className={styles.featureImage} alt={title} /></a>
       </div>
     </div>
   );

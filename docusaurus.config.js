@@ -88,7 +88,7 @@ const config = {
             type: 'doc',
             docId: 'IntroToDarkSkylines',
             position: 'left',
-            label: 'Quick Start',
+            label: 'Introduction',
           },
           {
             type: 'doc',
