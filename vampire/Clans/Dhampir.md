@@ -4,13 +4,13 @@ sidebar_label: 'Dhampir'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="https://i.fivem.lgbt/3XWSln15cb.png" width='350px' />
+  <img src="/img/vagrant.png" width='350px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
-
+      Dhampir clan logo by <a href="https://www.reddit.com/r/WhiteWolfRPG/comments/li1x38/fanmade_dhampir_ankh/">vstheworld65</a>
   </figcaption>
 </figure>
 
-<img src="https://i.fivem.lgbt/W2FvuMngNo.png" className="icon-img" />
+<img src="/img/clanlogos/dhampir.png" className="icon-img" />
 
 # Dhampir
     #### &nbsp;&nbsp;&nbsp;&nbsp; Half-Born, Revenants, Daywalkers

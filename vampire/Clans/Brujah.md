@@ -4,13 +4,13 @@ sidebar_label: 'Brujah'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="https://i.fivem.lgbt/tYZtYqXp1f.png" width='350px' />
+  <img src="/img/brujah.png" width='350px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
 </figure>
 
-<img src="https://i.fivem.lgbt/PlUgOZSenb.png" className="icon-img" />
+<img src="/img/clanlogos/brujah.png" className="icon-img" />
 
 # Brujah
     #### &nbsp;&nbsp;&nbsp;&nbsp; Agitators, Punks, Rebels

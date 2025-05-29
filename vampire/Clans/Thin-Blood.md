@@ -4,13 +4,13 @@ sidebar_label: 'Thin-Bloods'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="https://i.fivem.lgbt/3XWSln15cb.png" width='350px' />
+  <img src="/img/vagrant.png" width='350px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
 </figure>
 
-<img src="https://i.fivem.lgbt/W2FvuMngNo.png" className="icon-img" />
+<img src="/img/clanlogos/thinblood.png" className="icon-img" />
 
 # Thin-Bloods
     #### &nbsp;&nbsp;&nbsp;&nbsp; Duskborn, Mercurians, Weaklings

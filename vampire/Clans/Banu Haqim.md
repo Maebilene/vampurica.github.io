@@ -4,13 +4,13 @@ sidebar_label: 'Banu Haqim - Viziers'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="https://i.fivem.lgbt/xRtDfvsnwT.png" width='350px' />
+  <img src="/img/assassin.png" width='350px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
 </figure>
 
-<img src="https://i.fivem.lgbt/BUPS2c29lV.png" className="icon-img" />
+<img src="/img/clanlogos/banuhaqim.png" className="icon-img" />
 
 # Banu Haqim Viziers
     #### &nbsp;&nbsp;&nbsp;&nbsp; Assassins, Assamites, Judges, Children of Haqim
