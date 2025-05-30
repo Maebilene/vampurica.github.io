@@ -50,7 +50,7 @@ const config = {
           routeBasePath: 'vampire',
           editUrl: 'https://github.com/Vampurica/vampurica.github.io/tree/main/',
         },
-        blog: {
+        /* blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -63,7 +63,7 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-        },
+        },*/
         theme: {
           customCss: './src/css/custom.css',
         },
