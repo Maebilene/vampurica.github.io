@@ -4,7 +4,7 @@ sidebar_label: 'Thin-Bloods'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="/img/vagrant.png" width='350px' />
+  <img src="/img/vagrant.png" width='300px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
@@ -13,7 +13,7 @@ hide_table_of_contents: true
 <img src="/img/clanlogos/thinblood.png" className="icon-img" />
 
 # Thin-Bloods
-    #### &nbsp;&nbsp;&nbsp;&nbsp; Duskborn, Mercurians, Weaklings
+    #### Duskborn, Mercurians, Weaklings
 
 In many ways similar to the Caitiff, the Thin-Blooded are vampires who due to no circumstances of their own have been embraced with thinner blood than other vampires. They do not have the hallmarks of a traditional clan, and are considered to be [Caitiff](./Caitiff). A vampires general power in many ways is related to how many embraces removed they are from the first vampire. Thin-Bloods are typically 14th or 15th generation, many steps further away from the first vampire than others, sired by a lineage of vampires who for some reason or another frequently embraced.
 

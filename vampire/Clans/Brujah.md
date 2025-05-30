@@ -4,7 +4,7 @@ sidebar_label: 'Brujah'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="/img/brujah.png" width='350px' />
+  <img src="/img/brujah.png" width='300px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
@@ -13,7 +13,7 @@ hide_table_of_contents: true
 <img src="/img/clanlogos/brujah.png" className="icon-img" />
 
 # Brujah
-    #### &nbsp;&nbsp;&nbsp;&nbsp; Agitators, Punks, Rebels
+    #### Agitators, Punks, Rebels
 
 The vampires of the Brujah clan were once scholars and seekers of wisdom. They would travel in search of the wise and solve the problems of the common man through logic. They once ruled the ancient great city of Carthage, where it was rumored that vampires and mortals could live together in peace. [Ventrue](./Ventrue) treachery and the armies of ancient Rome brought an end to Carthage however, shaking the Brujah to their core.
 

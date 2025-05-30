@@ -4,7 +4,7 @@ sidebar_label: 'Caitiff'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="/img/vagrant.png" width='350px' />
+  <img src="/img/vagrant.png" width='300px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
@@ -13,7 +13,7 @@ hide_table_of_contents: true
 <img src="/img/clanlogos/caitiff.png" className="icon-img" />
 
 # Caitiff
-    #### &nbsp;&nbsp;&nbsp;&nbsp; The Clanless, Trash, Unbound
+    #### The Clanless, Trash, Unbound
 
 The Caitiff are not a clan in the general sense, but the absence of the defining features of a clan. Caitiff are wildcards, typically having not inherited the weakness of their Sire's clan, or any or all of the defining powers of their Sire's clan. These unfortunate vampires are usually abandoned as embarrassments to their Sires, considered unfit for vampire society.
 

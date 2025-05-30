@@ -4,7 +4,7 @@ sidebar_label: 'Dhampir'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="/img/vagrant.png" width='350px' />
+  <img src="/img/vagrant.png" width='300px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
       Dhampir clan logo by <a href="https://www.reddit.com/r/WhiteWolfRPG/comments/li1x38/fanmade_dhampir_ankh/">vstheworld65</a>
   </figcaption>
@@ -13,7 +13,7 @@ hide_table_of_contents: true
 <img src="/img/clanlogos/dhampir.png" className="icon-img" />
 
 # Dhampir
-    #### &nbsp;&nbsp;&nbsp;&nbsp; Half-Born, Revenants, Daywalkers
+    #### Half-Born, Revenants, Daywalkers
 
 A Dhampir, once thought to be an impossibility, has become more common in recent nights with the rise of the [Thin-Blooded](./Thin-Blood). A Dhampir is a creature created from one vampire parent, typically the father, to a mortal mother. The existance of Dhampir proves that there are at least a few Thin-Blooded capable of reproduction. A Dhampir exists in a state halfway between life and undeath, which is extremely rare. Although Dhampir are typically treated like Ghouls, they have many differences.
 

@@ -4,7 +4,7 @@ sidebar_label: 'Banu Haqim - Viziers'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="/img/assassin.png" width='350px' />
+  <img src="/img/assassin.png" width='300px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
@@ -13,7 +13,7 @@ hide_table_of_contents: true
 <img src="/img/clanlogos/banuhaqim.png" className="icon-img" />
 
 # Banu Haqim Viziers
-    #### &nbsp;&nbsp;&nbsp;&nbsp; Assassins, Assamites, Judges, Children of Haqim
+    #### Assassins, Assamites, Judges, Children of Haqim
 
 The vampires of the Banu Haqim hail mostly from the middle east, centered around the hidden fortress of Alumut. With a reputation in the western world as assassins who follow a strict code of conduct, the Banu Haqim are varied across their bloodlines. The Viziers of the Banu Haqim were once responsible for archiving information of the world, until the religious schism of the clan caused them to defy the worship of Haqim and flee from Alumut. Because of this, the Viziers are considered traitors to their other clanmates, and are hunted by many of them.
 

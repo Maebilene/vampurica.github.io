@@ -4,7 +4,7 @@ sidebar_label: 'Banu Haqim - Warriors'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="/img/assassin.png" width='350px' />
+  <img src="/img/assassin.png" width='300px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
@@ -12,8 +12,8 @@ hide_table_of_contents: true
 
 <img src="/img/clanlogos/banuhaqim.png" className="icon-img" />
 
-# Banu Haqim Warrior
-    #### &nbsp;&nbsp;&nbsp;&nbsp; Assassins, Assamites, Judges, Children of Haqim
+# Banu Haqim Warriors
+    #### Assassins, Assamites, Judges, Children of Haqim
 
 The vampires of the Banu Haqim hail mostly from the middle east, centered around the hidden fortress of Alumut. With a reputation in the western world as assassins who follow a strict code of conduct, the Banu Haqim are varied across their bloodlines, the Banu Haqim Warriors being the reason for it. These warriors readily agree to dangerous missions, if paid well enough in blood. The Banu Haqim Warrior's taste for blood is legendary, as is their desire to judge vampires according to their founders laws. Violaters must be destroyed.
 

@@ -4,7 +4,7 @@ sidebar_label: 'Brujah - True Brujah'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="/img/brujah.png" width='350px' />
+  <img src="/img/brujah.png" width='300px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
@@ -13,7 +13,7 @@ hide_table_of_contents: true
 <img src="/img/clanlogos/truebrujah.png" className="icon-img" />
 
 # True Brujah
-    #### &nbsp;&nbsp;&nbsp;&nbsp; Sages, Truejah
+    #### Sages, Truejah
 
 While the Brujah are typically known for their fiery and rebellious natures, struggling to control their emotions, the True Brujah struggle to connect with theirs. The True Brujah claim that they are descended from the true progenitor of clan Brujah, who was much calmer and collected than the majority of the rest of the clan.
 
