@@ -15,7 +15,7 @@ hide_table_of_contents: true
 # Cappadocians
     #### Clan of Death, Grave Robbers, Necromancers
 
-Among the original thirteen vampire clans, the founder of the Clan of Death was unique, as he found the embrace as a unique opportunity to study the condition of death and unlife. The founder who the clan is named after, Cappadocius, used much of his unlife in study of undeath and the paths of necromancy. Considered a visionary by many, he was not a firm leader, letting his favored childer control the clan. This changed when Cappadocius chose to purge his clan, which had grown quite numerous, in an event known as the Feast of Folly.
+Among the original thirteen vampire clans, the founder of the Clan of Death was different, as he found the embrace as a unique opportunity to study the condition of death and unlife. The founder who the clan is named after, Cappadocius, used much of his unlife in study of undeath and the paths of necromancy. Considered a visionary by many, he was not a firm leader, letting his favored childer control the clan. This changed when Cappadocius chose to purge his clan, which had grown quite numerous, in an event known as the Feast of Folly.
 
 After the Feast of Folly, Cappadocius sought assistance in the study of death and unlife, choosing to work with a family of Venetian necromancers, the [Giovanni](<./Giovanni>). Embracing Augustus Giovanni would become the undoing of the clan however, as he eventually betrayed Cappadocius and diablerized him. He then went on to reshape the clan in his own image, converting it into clan Giovanni.
 
