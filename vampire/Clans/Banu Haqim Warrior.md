@@ -19,7 +19,7 @@ The vampires of the Banu Haqim hail mostly from the middle east, centered around
 
 The Banu Haqim Warriors were once known as rampant diablerists, forced to stop when the [Tremere](./Tremere) intervened, performing a ritual that cursed their blood. Because of this, particularly old Banu Haqim hate the Tremere with a burning passion. When the leader of the clan rose to power, he broke the curse and swore the Banu Haqim to vengeance.
 
-Banu Haqim Warriors are loyal to the mountain, and the eldest within Alumut. They will stop at nothing to hunt down and diablerize the traitorous [Banu Haqim Viziers](<./Banu Haqim>).
+Banu Haqim Warriors are loyal to the mountain, and the eldest within Alumut. They will stop at nothing to hunt down and diablerize the traitorous [Banu Haqim Viziers](<./Banu Haqim Vizier>).
 
 Banu Haqim Warriors are a bloodline that require 2 merit points to play.
 
