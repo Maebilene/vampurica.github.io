@@ -23,7 +23,7 @@ A **Bloodline** is a subset of a **Clan** that is a smaller group of vampires wh
 ## [Daughters of Cacophony](<./Clans/Daughters of Cacophony>)
     * [Sons of Discord](<./Clans/Daughters of Cacophony>)
     * [Children of Dissonance](<./Clans/Daughters of Cacophony>)
-## [Followers of Set](./Clans/Setite)
+## [Followers of Set](<./Clans/Followers of Set>)
     * [Tlacique](./Clans/Tlacique)
     * [Vipers](./Clans/Viper)
 ## [Gangrel](./Clans/Gangrel)
