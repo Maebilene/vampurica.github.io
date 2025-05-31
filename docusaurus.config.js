@@ -165,7 +165,26 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-    plugins: [require.resolve('docusaurus-lunr-search')],
+    plugins: [require.resolve('docusaurus-lunr-search'),[
+            '@docusaurus/plugin-client-redirects',
+            {
+                redirects: [
+                    {
+                        from: '/vampire/Clans/Setite',
+                        to: '/vampire/Clans/Followers of Set',
+                    },
+                    {
+                        from: '/vampire/Clans/DoC',
+                        to: '/vampire/Clans/Daughters of Cacophony',
+                    },
+                    {
+                        from: '/vampire/Clans/Truejah',
+                        to: '/vampire/Clans/True Brujah',
+                    },
+                ],
+            },
+        ],
+    ],
 };
 
 export default config;
