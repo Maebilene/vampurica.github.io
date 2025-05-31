@@ -19,6 +19,8 @@ Legend has it that one of the childer of [Cappadocius](./Cappadocian), Lazarus, 
 
 The Lamia are known to carry a disease within their bite, forcing them to feed sparingly to avoid unwanted attention. Typically acting as soldiers for other Cappadocians, the Lamia were predominantly women, who were embraced for being close with death or murder. They prefer to reside among the dead to prevent a potential outbreak of plague from their bite.
 
+Lamia are a bloodline that require 4 merit points to play.
+
 # In Clan Disciplines
 
 [Fortitude](../Disciplines/Fortitude) — [Mortis Path](<../Disciplines/Mortis Path>) — [Potence](<../Disciplines/Potence>)

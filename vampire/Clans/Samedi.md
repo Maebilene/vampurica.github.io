@@ -25,6 +25,8 @@ The Samedi have expanded across the globe since their start in the Caribbean, an
 >
 > — Anonymous Samedi
 
+Samedi are a bloodline that require 2 merit points to play.
+
 # In Clan Disciplines
 
 [Fortitude](../Disciplines/Fortitude) — [Obfuscate](../Disciplines/Obfuscate) — [Thanatosis](<../Disciplines/Thanatosis>)

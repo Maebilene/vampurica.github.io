@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 5.1
 sidebar_label: 'Followers of Set - Tlacique'
 hide_table_of_contents: true
 ---
@@ -22,6 +22,8 @@ The Tlacique used to rule over the Aztec, Inca, and other native civilizations a
 The Tlacique are also known for their practice of blood rituals, a simplistic shamanistic method of applying blood to the body to get specific effects. The Sabbat took some of these practices from the Tlacique, but without the spiritual beliefs, it simple infuriated the Tlacique further.
 
 In modern nights, the Tlacique are rare to see outside of their jungles, where they try to slip away from even vampire memory, after being heavily decimated by both the Camarilla and Sabbat.
+
+Tlacique are a bloodline that require 2 merit points to play.
 
 # In Clan Disciplines
 
