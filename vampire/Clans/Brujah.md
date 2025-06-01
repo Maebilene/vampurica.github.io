@@ -25,6 +25,8 @@ Brujah are embraced from many cultures, regions, and religions. The Brujah are n
 >
 > — Rouge, Nosferatu Elder
 
+In recent nights the clans de-facto position as enforcers within the Camarilla has changed. The highest representative of the clan within the Camarilla, the well-respected Justicar of Clan Brujah Theo Bell, met final death at the Conclave of Hartford after beheading the traitorous Ventrue Hardestadt. The legendary Brujah Romana Pendragon was then disrespected by the Ventrue Justicar Lucinde along with the other Brujah present who left in protest. This was solidified many months later when Romana Pendragon announced that she was joining the Anarch Movement, and declared the state of Connecticut an Anarch Free State. Needless to say, the Brujah then left the Camarilla in droves, and not many have remained.
+
 # In Clan Disciplines
 
 [Presence](../Disciplines/Presence) — [Potence](../Disciplines/Potence) — [Celerity](../Disciplines/Celerity)
