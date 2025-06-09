@@ -29,12 +29,12 @@ Banu Haqim Viziers are driven to accumulate knowledge of the world with a zeal t
 
 # Weakness
 
-Viziers are obsessed with their research even to their own detriment. All Viziers have an Obsessive Derangement for *Uknown Knowledge*. They do not gain experience from this Derangement.
+Viziers are obsessed with their research even to their own detriment. All Viziers have an Obsessive Derangement for *Unknown Knowledge*. They do not gain experience from this Derangement.
 
 # Clan Merits
 
-    * [Surprise Attack (1)](<../Merits/Surprise Attack>)
     * [Obsessive Study (1)](<../Merits/Obsessive Study>)
+    * [Surprise Attack (1)](<../Merits/Surprise Attack>)
     * [Blood Secrets (2)](<../Merits/Blood Secrets>)
     * [Awakening the Steel (3)](<../Merits/Awakening the Steel>)
     * [Trials of the Blood (3)](<../Merits/Trials of the Blood>)

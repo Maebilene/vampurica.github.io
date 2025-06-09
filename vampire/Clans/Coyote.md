@@ -31,8 +31,8 @@ Additionally, a Gangrel gains yet another beast feature each time they Frenzy th
 
 # Clan Merits
 
-    * [Seasoned Traveler (1)](<../Merits/Seasoned Traveler>)
     * [Protean Blood (1)](<../Merits/Protean Blood>)
+    * [Seasoned Traveler (1)](<../Merits/Seasoned Traveler>)
     * [The Man in Black (1)](<../Merits/The Man in Black>)
     * [Luck of the Damned (2)](<../Merits/Luck of the Damned>)
     * [Sanguine Indulgence (2)](<../Merits/Sanguine Indulgence>)

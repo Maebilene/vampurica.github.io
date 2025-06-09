@@ -33,11 +33,11 @@ Banu Haqim Warriors find the blood of other vampires highly addictive. When a Ba
 
 # Clan Merits
 
-    * [The Blade Whisperer (1)](<../Merits/The Blade Whisperer>)
     * [Surprise Attack (1)](<../Merits/Surprise Attack>)
+    * [The Blade Whisperer (1)](<../Merits/The Blade Whisperer>)
     * [Bane's Blessing (2)](<../Merits/Banes Blessing>)
-    * [Web of Knives (3)](<../Merits/Web of Knives>)
     * [Awakening the Steel (3)](<../Merits/Awakening the Steel>)
+    * [Web of Knives (3)](<../Merits/Web of Knives>)
 
 # Clan Flaws
 

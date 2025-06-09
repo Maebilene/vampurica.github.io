@@ -23,7 +23,7 @@ Mechanically, a Dhampir character is created similarly to a [Ghoul](./Ghouls), w
 
 # In Clan Disciplines
 
-A Dhampir character has no in-clan Disciplines, and instead place 7 creation points into any three starting disciplines they choose. However, a Dhampir character can never learn any Discipline above the 3rd level.
+A Dhampir character has no in-clan Disciplines, and instead place 7 creation points into any three starting disciplines they choose. However, a Dhampir character can never learn any Discipline above the 3rd level, nor purchase additional disciplines with XP.
 
 # Weakness
 

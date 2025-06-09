@@ -33,9 +33,9 @@ Additionally, a Gangrel gains yet another beast feature each time they Frenzy th
 
 # Clan Merits
 
+    * [Protean Blood (1)](<../Merits/Protean Blood>)
     * [Seasoned Traveler (1)](<../Merits/Seasoned Traveler>)
     * [Seekers of the Hidden (1)](<../Merits/Seekers of the Hidden>)
-    * [Protean Blood (1)](<../Merits/Protean Blood>)
     * [Sanguine Indulgence (2)](<../Merits/Sanguine Indulgence>)
     * [Spirit Guide (2)](<../Merits/Spirit Guide>)
     * [Sage of the Spirits (2)](<../Merits/Sage of the Spirits>)

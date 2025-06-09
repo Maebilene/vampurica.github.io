@@ -48,8 +48,8 @@ If a Thin-Blooded character ever increases their generation through Diablerie to
     * [A Way Out (2)](<../Merits/A Way Out>)
     * [Day Drinker (2)](<../Merits/Day Drinker>)
     * [Eclipsed Blood (2)](<../Merits/Eclipsed Blood>)
-    * [Piece That Remains (2)](<../Merits/Piece That Remains>)
     * [Lifelike (2)](<../Merits/Lifelike>)
+    * [Piece That Remains (2)](<../Merits/Piece That Remains>)
     * [Brightest Stars Burn Fastest (3)](<../Merits/Brightest Stars Burn Fastest>)
     * [Catenating Blood (3)](<../Merits/Catenating Blood>)
 

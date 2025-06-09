@@ -27,11 +27,11 @@ Like the founder of the clan, Sutekh, the Setites have a weakness to bright ligh
 
 # Clan Merits
 
-    * [Personal Cult (1)](<../Merits/Personal Cult>)
     * [Bane of the Aeons (1)](<../Merits/Bane of the Aeons>)
+    * [Personal Cult (1)](<../Merits/Personal Cult>)
     * [Serpentine Embrace (1)](<../Merits/Serpentine Embrace>)
-    * [Shedding the Snake's Skin (2)](<../Merits/Shedding the Snakes Skin>)
     * [Iron Scales (2)](<../Merits/Iron Scales>)
+    * [Shedding the Snake's Skin (2)](<../Merits/Shedding the Snakes Skin>)
     * [Addictive Blood (3)](<../Merits/Addictive Blood>)
     * [Typhonic Beast (3)](<../Merits/Typhonic Beast>)
     * [Voudoun Master (3)](<../Merits/Voudoun Master>)

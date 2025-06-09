@@ -43,8 +43,8 @@ Caitiff cannot enter play with more than 2 dots in the Generation background. Ca
     * [Auspicious (1)](<../Merits/Auspicious>)
     * [Eclipsed Blood (2)](<../Merits/Eclipsed Blood>)
     * [Piece That Remains (2)](<../Merits/Piece That Remains>)
-    * [Vestiges of Greatness (3)](<../Merits/Vestiges of Greatness>)
     * [Inceptor (3)](<../Merits/Inceptor>)
+    * [Vestiges of Greatness (3)](<../Merits/Vestiges of Greatness>)
 
 # Clan Flaws
 

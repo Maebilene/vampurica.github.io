@@ -33,14 +33,14 @@ True Brujah lose their emotional capacity when they are embraced. They cannot pu
 
 # Clan Merits
 
-    * [Timely Intervention (1)](<../Merits/Timely Intervention>)
     * [Breaking Point (1)](<../Merits/Breaking Point>)
+    * [Timely Intervention (1)](<../Merits/Timely Intervention>)
+    * [Burning Wrath (2)](<../Merits/Burning Wrath>)
     * [Iron Heart (2)](<../Merits/Iron Heart>)
     * [Renaissance Mindset (2)](<../Merits/Renaissance Mindset>)
-    * [Burning Wrath (2)](<../Merits/Burning Wrath>)
-    * [Scourge of Alecto (3)](<../Merits/Scourge of Alecto>)
     * [Borrowed Time (3)](<../Merits/Borrowed Time>)
     * [Fervent Iconoclast (3)](<../Merits/Fervent Iconoclast>)
+    * [Scourge of Alecto (3)](<../Merits/Scourge of Alecto>)
 
 # Clan Flaws
 

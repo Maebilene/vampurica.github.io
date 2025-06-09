@@ -33,13 +33,13 @@ The majority of Lamia choose to feed on animals as often as possible to avoid sp
 
 # Clan Merits
 
+    * [Beauty of the Beholder (1)](<../Merits/Beauty of the Beholder>)
     * [Chosen of Cappadocius (1)](<../Merits/Chosen of Cappadocius>)
     * [Necromantic Insight (1)](<../Merits/Necromantic Insight>)
-    * [Beauty of the Beholder (1)](<../Merits/Beauty of the Beholder>)
     * [Blood Deceit (2)](<../Merits/Blood Deceit>)
     * [Not On My Watch (2)](<../Merits/Not On My Watch>)
-    * [Not My Time (3)](<../Merits/Not My Time>)
     * [Blessing of the Gorgons (3)](<../Merits/Blessing of the Gorgons>)
+    * [Not My Time (3)](<../Merits/Not My Time>)
     * [Pierced Shroud (3)](<../Merits/Pierced Shroud>)
 
 

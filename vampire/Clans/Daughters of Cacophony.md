@@ -31,8 +31,8 @@ One of the curses of being filled with song is that they constantly hear it. Eve
 
 # Clan Merits
 
-    * [Supernatural Aria (1)](<../Merits/Supernatural Aria>)
     * [Rhythm of Battle (1)](<../Merits/Rhythm of Battle>)
+    * [Supernatural Aria (1)](<../Merits/Supernatural Aria>)
     * [Diva (2)](<../Merits/Diva>)
     * [Soaring Octaves (3)](<../Merits/Soaring Octaves>)
     * [Songs Beyond Mortal Ken (3)](<../Merits/Songs Beyond Mortal Ken>)

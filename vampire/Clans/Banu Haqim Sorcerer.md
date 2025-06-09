@@ -32,8 +32,8 @@ Banu Haqim Sorcerers have issues using the powers of Obfuscate, as their aura sh
     * [Surprise Attack (1)](<../Merits/Surprise Attack>)
     * [Thaumaturgically Gifted (1)](<../Merits/Thaumaturgically Gifted>)
     * [The Judge's Resilience (2)](<../Merits/The Judges Resilience>)
-    * [Talismongerer (3)](<../Merits/Talismongerer>)
     * [Awakening the Steel (3)](<../Merits/Awakening the Steel>)
+    * [Talismongerer (3)](<../Merits/Talismongerer>)
 
 # Clan Flaws
 

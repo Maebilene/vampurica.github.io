@@ -39,10 +39,10 @@ Brujah are very emotional, and have trouble controlling the wrath of their beast
 
     * [Breaking Point (1)](<../Merits/Breaking Point>)
     * [Brotherhood (1)](<../Merits/Brotherhood>)
-    * [Iron Heart (2)](<../Merits/Iron Heart>)
     * [Burning Wrath (2)](<../Merits/Burning Wrath>)
-    * [Scourge of Alecto (3)](<../Merits/Scourge of Alecto>)
+    * [Iron Heart (2)](<../Merits/Iron Heart>)
     * [Fervent Iconoclast (3)](<../Merits/Fervent Iconoclast>)
+    * [Scourge of Alecto (3)](<../Merits/Scourge of Alecto>)
     * [Bloodline: True Brujah (4)](<./True Brujah>)
 
 # Clan Flaws

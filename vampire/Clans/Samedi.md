@@ -38,8 +38,8 @@ The Samedi are decayed, being unmistakable for a walking rotting corpse without 
 # Clan Merits
 
     * [Chosen of Cappadocius (1)](<../Merits/Chosen of Cappadocius>)
-    * [Whispers from Beyond (1)](<../Merits/Whispers from Beyond>)
     * [Necromantic Insight (1)](<../Merits/Necromantic Insight>)
+    * [Whispers from Beyond (1)](<../Merits/Whispers from Beyond>)
     * [Blood Deceit (2)](<../Merits/Blood Deceit>)
     * [Walking Dead (2)](<../Merits/Walking Dead>)
     * [Not My Time (3)](<../Merits/Not My Time>)

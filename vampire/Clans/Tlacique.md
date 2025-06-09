@@ -35,14 +35,14 @@ Like the founder of the clan, Sutekh, the Setites have a weakness to bright ligh
 
 # Clan Merits
 
-    * [Personal Cult (1)](<../Merits/Personal Cult>)
     * [Bane of the Aeons (1)](<../Merits/Bane of the Aeons>)
+    * [Personal Cult (1)](<../Merits/Personal Cult>)
     * [The Heart of the Matter (1)](<../Merits/The Heart of the Matter>)
-    * [Shedding the Snake's Skin (2)](<../Merits/Shedding the Snakes Skin>)
     * [Blood Knows the Way (2)](<../Merits/Blood Knows the Way>)
+    * [Shedding the Snake's Skin (2)](<../Merits/Shedding the Snakes Skin>)
     * [Addictive Blood (3)](<../Merits/Addictive Blood>)
-    * [Voudoun Master (3)](<../Merits/Voudoun Master>)
     * [Obsidian Claws (3)](<../Merits/Obsidian Claws>)
+    * [Voudoun Master (3)](<../Merits/Voudoun Master>)
     * [Setite Sorcery (4)](<../Merits/Setite Sorcery>)
 
 # Clan Flaws

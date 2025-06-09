@@ -31,14 +31,14 @@ Additionally, a Gangrel gains yet another beast feature each time they Frenzy th
 
 # Clan Merits
 
-    * [Seasoned Traveler (1)](<../Merits/Seasoned Traveler>)
     * [Aquatic Predator (1)](<../Merits/Aquatic Predator>)
     * [Protean Blood (1)](<../Merits/Protean Blood>)
-    * [Sanguine Indulgence (2)](<../Merits/Sanguine Indulgence>)
+    * [Seasoned Traveler (1)](<../Merits/Seasoned Traveler>)
     * [Blood in the Water (2)](<../Merits/Blood in the Water>)
+    * [Sanguine Indulgence (2)](<../Merits/Sanguine Indulgence>)
     * [Rending (3)](<../Merits/Rending>)
-    * [Shape of Beast's Wrath (3)](<../Merits/Shape of Beasts Wrath>)
     * [Sea Witch (3)](<../Merits/Sea Witch>)
+    * [Shape of Beast's Wrath (3)](<../Merits/Shape of Beasts Wrath>)
 
 # Clan Flaws
 
