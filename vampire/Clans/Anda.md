@@ -19,6 +19,8 @@ Legend goes that the Anda, a Gangrel bloodline, are descendants of the Mongolian
 
 The Anda had a strong connection to their extended mortal families, giving them protection and assistance at night in exchange for them providing blood and safety during the day. This changed when Genghis Khan rose to power, as the Anda followed him and wiped out many of the Wan Kuei strongholds. Blows to the Anda came in the late 1300's when the Ming Dynasty and remainders of the Wan Kuei lead assaults against them, mostly wiping them out. It's uncertain how many, if any, remain.
 
+Anda are a bloodline that require 2 merit points to play.
+
 # In Clan Disciplines
 
 [Animalism](<../Disciplines/Animalism>) — [Protean](<../Disciplines/Protean>) — [Potence](<../Disciplines/Potence>)

@@ -19,6 +19,8 @@ The Coyotes are a bloodline of Gangrel who have taken to hunting in cities, wher
 
 A large majority of the Coyotes are members of the Sabbat, known to embrace prolifically, but with short unlife expectancies from their sect. In modern nights, Ragnar the Black has taken the Justicar seat in the Camarilla permitting the bloodline to join with lessened penalties for being former members of the Sabbat.
 
+Coyote are a bloodline that require 2 merit points to play.
+
 # In Clan Disciplines
 
 [Celerity](../Disciplines/Celerity) — [Obfuscate](<../Disciplines/Obfuscate>) — [Protean](<../Disciplines/Protean>)

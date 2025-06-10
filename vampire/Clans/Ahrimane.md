@@ -21,6 +21,8 @@ After taking her vengeance, Freyja yet again came to take her, and she again ref
 
 The Ahrimanes returned when Muricia, a Gangrel within the Sabbat, renounced both her sect and clan. She travelled to North America and studied the ways of the Native American Shamans, calling upon arcane powers to alter her vitae, unknowingly sparking a lingering trace of Ádísa's influence. After utilizing the thaumaturgic powers of the native shamans, she separated her blood from that of her clan, recreating the Ahrimane bloodline. Although never numerous, the Ahrimanes went silent in the late 1990s. That Sabbat seem to believe that Muricia lead her faithful on a pilgrimage somewhere into the other side, but nobody knows for sure.
 
+Ahrimane are a bloodline that require 4 merit points to play.
+
 # In Clan Disciplines
 
 [Animalism](<../Disciplines/Animalism>) — [Path of Elemental Mastery](<../Disciplines/Path of Elemental Mastery>) — [Presence](<../Disciplines/Presence>)

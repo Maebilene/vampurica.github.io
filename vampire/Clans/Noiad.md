@@ -19,6 +19,8 @@ A Gangrel Bloodline whose origin has been lost to time, the Noiad are a tribe fr
 
 One of the few things that would bring the Noiad together was the *guovssahas*, when the Noiad would meet and watch the Northern Lights for messages from the gods, normally arranging the event through animal retainers.
 
+Noiad are a bloodline that require 2 merit points to play.
+
 # In Clan Disciplines
 
 [Animalism](../Disciplines/Animalism) — [Fortitude](<../Disciplines/Fortitude>) — [Protean](<../Disciplines/Protean>)
