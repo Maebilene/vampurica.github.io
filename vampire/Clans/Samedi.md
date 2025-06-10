@@ -4,7 +4,7 @@ sidebar_label: 'Cappadocians - Samedi'
 hide_table_of_contents: true
 ---
 <figure className="float-right-img">
-  <img src="/img/zombie.png" width='250px' />
+  <img src="/img/tophat.png" width='250px' />
   <figcaption style={{ fontSize: '0.85em', color: '#666', textAlign: 'center' }}>
 
   </figcaption>
