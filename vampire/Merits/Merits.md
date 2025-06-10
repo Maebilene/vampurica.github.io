@@ -12,3 +12,7 @@ By default, a character's Merit capacity is 7 points (note many Merits cost more
 A character is not required to begin play with her entire Merit capacity depleted. If a character has unspent Merit capacity, she may file downtime actions to purchase additional Merits, but never exceeding her capacity. Purchasing a Merit requires spending 1 xp per that Merit's level. Some Merits can only be purchased at character-creation, and may not be purchased this way.
 
 * [Absent Sway](<./Merits/Absent Sway>)
+* [Abstract Awareness](<./Merits/Abstract Awareness>)
+* [Abyssal Horror](<./Merits/Abyssal Horror>)
+* [Acute Sense](<./Merits/Acute Sense>)
+* [Adaptive](<./Merits/Adaptive>)

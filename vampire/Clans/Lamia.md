@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4.2
+sidebar_position: 4.1
 sidebar_label: 'Cappadocians - Lamia'
 hide_table_of_contents: true
 ---
