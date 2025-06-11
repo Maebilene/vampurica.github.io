@@ -1,13 +1,11 @@
 ---
-sidebar_position: 8.5
 sidebar_label: 'Adaptive'
 hide_table_of_contents: true
 ---
 
-# Adaptive
+# Adaptive (1)
 
-## Cost: 1
-## Restriction: Clan Specific ([Caitiff](../Clans/Caitiff))
+### Restriction: Clan Specific ([Caitiff](../Clans/Caitiff))
 
 Flexibility is a Caitiff's greatest asset, and being Adaptive to her disciplines is simply the logical conclusion of that flexibility. A Caitiff with Adaptive selects a single in-clan discipline that she possesses and receives the benefit of the attribute focus for that discipline, even if she does not have it.
 

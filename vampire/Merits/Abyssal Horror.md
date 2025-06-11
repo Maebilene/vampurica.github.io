@@ -1,13 +1,11 @@
 ---
-sidebar_position: 8.3
 sidebar_label: 'Abyssal Horror'
 hide_table_of_contents: true
 ---
 
-# Abyssal Horror
+# Abyssal Horror (3)
 
-## Cost: 3
-## Restriction: Clan Specific ([Lasombra Corsair](../Clans/Corsair))
+### Restriction: Clan Specific ([Lasombra Corsair](../Clans/Corsair))
 
 Whether though long forays across the deepest, darkest depths of earth's seas or by association with creatures of the Abyss, some Lasombra have discovered the shape of the Kraken and are able to manifest that power within their own transformations. When a Lasombra with Abyssal Horror activates Black Metamorphosis, she may choose to assume a different form: Abyssal Horror. In this form, she retains the normal benefits granted by Black Metamoposis with several additional advantages.
 

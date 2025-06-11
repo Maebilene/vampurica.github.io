@@ -1,13 +1,11 @@
 ---
-sidebar_position: 8.2
 sidebar_label: 'Abstract Awareness'
 hide_table_of_contents: true
 ---
 
-# Abstract Awareness
+# Abstract Awareness (1)
 
-## Cost: 1
-## Restriction: Clan Specific ([Ravnos Brahman](../Clans/Brahman))
+### Restriction: Clan Specific ([Ravnos Brahman](../Clans/Brahman))
 
 Through an intimate understanding of Maya, certain Ravnos are able to extend their Auspex powers to other planes of existence. When using the Auxpex power Heightened Senses, a Ravnos with Abstract Awareness is able to forgo the normal effects of Heightened Senses in exchange for a glimpse into either the Dreaming, the Shadowlands or the Umbra.
 

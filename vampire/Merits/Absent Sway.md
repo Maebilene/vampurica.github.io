@@ -1,13 +1,11 @@
 ---
-sidebar_position: 8.1
 sidebar_label: 'Absent Sway'
 hide_table_of_contents: true
 ---
 
-# Absent Sway
+# Absent Sway (3)
 
-## Cost: 3
-## Restriction: Clan Specific ([Toreador](../Clans/Toreador))
+### Restriction: Clan Specific ([Toreador](../Clans/Toreador))
 
 Absent Sway allows a Toreador's art to instill an emotion or state of mind in all those who observe it. This art might be a fixture, such as a painting, sculpture or necklace; or a performance, such as a dance or song. The art must merely be sufficiently observable to impart its effect. For example, a blindfolded character would not be affected by a painting or dance.
 
